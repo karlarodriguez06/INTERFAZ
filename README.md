@@ -1,9 +1,10 @@
 # Software FJ - Sistema de Gestión de Reservas
-
 Proyecto desarrollado en Python para la gestión de clientes, servicios y reservas.
+
+---
 Autores:
-Omar Rafael de Arco Bolano
-Karla María Fuentes Rodríguez
+- Omar Rafael de Arco Bolano
+- Karla María Fuentes Rodríguez
 ---
 
 ## Descripción
